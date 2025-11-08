@@ -1,2 +1,3 @@
-# sortings
-sortings package hometask
+# Sortings
+Домашка "Пакет с сортировками"
+Романовский Михаил
